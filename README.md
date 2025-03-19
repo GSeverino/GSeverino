@@ -1,16 +1,16 @@
-## Hi there 👋
+Empreendedor apaixonado por dados e tecnologia, com expertise em transformar insights em estratégias que alavancam resultados. CEO da Datajug, onde unimos ciência e negócios para oferecer soluções inovadoras.
 
-<!--
-**GSeverino/GSeverino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias:
+Power BI | Python | R | PHP | SQL | MySQL
 
-Here are some ideas to get you started:
+Ciência de Dados e Análise Estratégica
+Desenvolvimento de Dashboards
+Gestão e Inovação Digital
+💼 Experiência Profissional
+☑️ CEO & Founder - Datajug (Desde 2022)
+☑️ Desenvolvedor de Software / Cientista de Dados – +7 anos de experiência
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formação Acadêmica
+
+Graduação: Química e Ciência de Dados
+Pós-graduação: Análise Instrumental Avançada
