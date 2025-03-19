@@ -14,3 +14,6 @@ Gestão e Inovação Digital
 
 Graduação: Química e Ciência de Dados
 Pós-graduação: Análise Instrumental Avançada
+
+Contato: gabriel.severino@datajug.com.br
+Site: www.datajug.com.br
