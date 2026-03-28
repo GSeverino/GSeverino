@@ -45,5 +45,5 @@ Com mais de 7 anos de experiência técnica, uno o rigor do método científico 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GSeverino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
