@@ -45,5 +45,5 @@ Com mais de 7 anos de experiência técnica, uno o rigor do método científico 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSeverino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://metrics.lecoq.io/GSeverino?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics de Gabriel Severino" />
 </p>
